@@ -1,0 +1,15 @@
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/bin/Debug/net6.0/Summenspiel
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/bin/Debug/net6.0/Summenspiel.deps.json
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/bin/Debug/net6.0/Summenspiel.runtimeconfig.json
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/bin/Debug/net6.0/Summenspiel.dll
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/bin/Debug/net6.0/Summenspiel.pdb
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/obj/Debug/net6.0/Summenspiel.csproj.AssemblyReference.cache
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/obj/Debug/net6.0/Summenspiel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/obj/Debug/net6.0/Summenspiel.AssemblyInfoInputs.cache
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/obj/Debug/net6.0/Summenspiel.AssemblyInfo.cs
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/obj/Debug/net6.0/Summenspiel.csproj.CoreCompileInputs.cache
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/obj/Debug/net6.0/Summenspiel.dll
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/obj/Debug/net6.0/refint/Summenspiel.dll
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/obj/Debug/net6.0/Summenspiel.pdb
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/obj/Debug/net6.0/Summenspiel.genruntimeconfig.cache
+/Users/nouralddenalmoqry/Projects/Summenspiel/Summenspiel/obj/Debug/net6.0/ref/Summenspiel.dll
